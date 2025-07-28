@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Rafael
+Me chamo Rafael Carneiro, tenho 19 anos e sou estudante de Sistemas de Informação na Universidade Federal de Viçosa (UFV).
 
 <p align="left"> 
     <a href="https://github.com/RafaelCarneiro16?tab=repositories&q=&type=&language=&sort=stargazers">
@@ -27,35 +27,19 @@ Me chamo Rafael
 
 <img
 align="left"
-alt="Java"
-title="Java"
+alt="Python"
+title="Python"
 width="50px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img
 align="left"
-alt="Spring  Boot"
-title="Spring  Boot"
+alt="C++"
+title="C++"
 width="50px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-/>
-<img
-align="left"
-alt="Kafka"
-title="Kafka"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
-/>
-<img
-align="left"
-alt="RabbitMQ"
-title="RabbitMQ"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
 <img
 align="left"
@@ -75,45 +59,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 />
 <img
 align="left"
-alt="JavaScript"
-title="JavaScript"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-align="left"
-alt="React"
-title="React"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-align="left"
 alt="Git"
 title="Git"
 width="50px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<img
-align="left"
-alt="SQL Server"
-title="SQL Server"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
-/>
-<img
-align="left"
-alt="mongoDB"
-title="mongoDB"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
-/>
-
 <br/>
 <br/>
 
