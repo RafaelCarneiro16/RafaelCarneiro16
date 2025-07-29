@@ -37,7 +37,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 align="left"
 alt="C"
 title="C"
-width="50px"
+width="45px"
 style="padding-right: 10px;"
 src="/C.png"
 />
