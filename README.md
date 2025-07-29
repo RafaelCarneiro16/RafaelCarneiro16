@@ -35,6 +35,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 />
 <img
 align="left"
+alt="Python"
+title="Python"
+width="50px"
+style="padding-right: 10px;"
+src="/C.png"
+/>
+<img
+align="left"
 alt="C++"
 title="C++"
 width="50px"
