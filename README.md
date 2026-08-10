@@ -99,15 +99,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 
 <img
 align="left"
-alt="Pygame"
-title="Pygame"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pygame/pygame-original.svg"
-/>
-
-<img
-align="left"
 alt="Node.js"
 title="Node.js"
 width="50px"
