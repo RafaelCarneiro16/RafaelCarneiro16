@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Rafael Carneiro, tenho 19 anos e sou estudante de Sistemas de Informação na Universidade Federal de Viçosa (UFV).
+Me chamo Rafael Carneiro, tenho 20 anos e sou estudante de Sistemas de Informação na Universidade Federal de Viçosa (UFV).
 
 <p align="left"> 
     <a href="https://github.com/RafaelCarneiro16?tab=repositories&q=&type=&language=&sort=stargazers">
